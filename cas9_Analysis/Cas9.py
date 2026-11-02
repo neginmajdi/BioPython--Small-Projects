@@ -18,7 +18,6 @@ The analysis helps to understand the composition and
 hydrophobic/hydrophilic properties of Cas9 at a glance.
 """
 
-import pandas as pd 
 import matplotlib.pyplot as plt
 from collections import Counter
 
